@@ -2,14 +2,15 @@
 
 <br />
 
-<div align="center">
-  <!-- Tarjeta de presentación dinámica -->
-  <img src="https://cardivo.vercel.app/api?name=Anxo&description=Cybersecurity%20Student%20%7C%20Ethical%20Hacker%20in%20training&modules=github,skills&skills=Linux,Git,Bash,Python&theme=tokyonight" alt="Anxo's Card" />
-</div>
-
-<br />
-
 ### 🛰️ About Me
+
+```text
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗ 
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║
+ ╚═════╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
 
 - 🛡️ **Focus:** Currently deeply immersed in **Cybersecurity & Ethical Hacking**.
 - 🎓 **Education:** Cybersecurity Student, learning how to break things to make them safer.
