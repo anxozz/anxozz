@@ -1,8 +1,8 @@
-# Hi there, I'm Anxo! 👋 ─── ⚔️ 💻
+# Hi there, I'm Anxo! ─── 🌐 ⚔️ 👾
 
 <br />
 
-### 🛰️ About Me
+### 🛰️ Main Terminal: /home/anxozz
 
 ```text
  ██████╗██╗   ██╗██████╗ ███████╗██████╗ 
@@ -11,58 +11,17 @@
 ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
 ╚██████╗   ██║   ██████╔╝███████╗██║  ██║
  ╚═════╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
+🧑‍💻 Status: 20-year-old Computer Engineering Student (2nd Year) based in Venezuela 🇻🇪.
 
-- 🛡️ **Focus:** Currently deeply immersed in **Cybersecurity & Ethical Hacking**.
-- 🎓 **Education:** Cybersecurity Student, learning how to break things to make them safer.
-- 🐧 **OS Environment:** Linux enthusiast (Kali & Arch are my playgrounds).
-- 🛠️ **Current Mission:** Mastering secure coding practices, network defenses, and automated scripts.
+🎯 Ultimate Goal: Becoming an Ethical Hacker / Pen tester with unbreakable programming roots.
 
----
+⚙️ Core Focus: Deeply fascinated by Backend Architecture and network security.
 
-### 🧰 Tech Stack & Tools
+🧠 Learning Path: Self-taught Cybersecurity enthusiast, bridging system defense with robust server code.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br />Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br />Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br />VS Code
-    </td>
-  </tr>
-</table>
+🗣️ Language: Spanish (Native) | English (Basic/Intermediate - enough to read docs and break barriers).
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anxozz&show_icons=true&theme=tokyonight&count_private=true" alt="Anxo's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anxozz&theme=tokyonight" alt="Anxo's GitHub Streak" />
-</div>
-
----
-
-### 🔑 SSH Status: SECURE 🟢
-> *Keys rotated, passwordless push configured, and standard university multi-collaboration protocols initiated.*
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghvc/?username=anxozz&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+🧰 Tech Stack & Cyber Tools
+📊 Network Diagnostics (GitHub Stats)
+🔑 System Security Verified 🟢
+SSH Handshake active. Authorized connection established from local machine. Multi-user collaboration ready.
