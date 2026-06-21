@@ -54,7 +54,7 @@
 <br />Linux
 </td>
  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=networks" width="48" height="48" alt="Networking" />
+      <img src="https://skillicons.dev/icons?i=cisco" width="48" height="48" alt="Networking" />
       <br />Networking
     </td>
 </tr>
