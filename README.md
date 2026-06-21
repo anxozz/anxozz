@@ -21,6 +21,8 @@
  🧠 Learning Path: Self-taught Cybersecurity enthusiast, bridging system defense with robust server code.
  
  🗣️ Language: Spanish (Native) | English (Basic/Intermediate - enough to read docs and break barriers).
+
+ 🌐 **Networking:** Solid fundamental knowledge of network protocols and architectures.
  
 🧰 Tech Stack & Cyber Tools
 <table border="0">
