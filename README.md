@@ -77,6 +77,3 @@
 🔑 System Security Verified 🟢
 SSH Handshake active. Authorized connection established from local machine. Multi-user collaboration ready.
 <br />
-<div align="center">
-<img src="https://komarev.com/ghvc/?username=anxozz&color=7aa2f7&style=flat-square&label=TERMINAL+PINGS" alt="Profile Views" />
-</div>
