@@ -77,3 +77,5 @@
 🔑 System Security Verified 🟢
 SSH Handshake active. Authorized connection established from local machine. Multi-user collaboration ready.
 <br />
+
+Contact: angelromero.informatica@gmail.com
